@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Composer-enabled Drupal template
 
 This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
@@ -21,10 +20,3 @@ directly accept pull requests.
 
 Instead, to propose a change, please fork [pantheon-systems/drupal-composer-managed](https://github.com/pantheon-systems/drupal-composer-managed)
 and submit a PR to that repository.
-=======
-# cms708
-
-[![CircleCI](https://circleci.com/gh/kporras07/cms708.svg?style=shield)](https://circleci.com/gh/kporras07/cms708)
-[![Dashboard cms708](https://img.shields.io/badge/dashboard-cms708-yellow.svg)](https://dashboard.pantheon.io/sites/1a61b48c-8581-4546-8988-149a54a1f97d#dev/code)
-[![Dev Site cms708](https://img.shields.io/badge/site-cms708-blue.svg)](http://dev-cms708.pantheonsite.io/)
->>>>>>> master
